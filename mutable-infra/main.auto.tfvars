@@ -1,3 +1,3 @@
 COMPONENT = "shipping"
-PORT = 8080
+PORT = 80
 
